@@ -1,4 +1,4 @@
-package com.greatlearning;
+package com.greatlearning.main;
 
 public class SimpleProject {
 
